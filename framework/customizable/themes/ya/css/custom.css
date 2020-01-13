@@ -1,0 +1,11 @@
+.balance {
+    color: red;
+}
+
+td.data_cell {
+    padding: 0 5px 0 5px;
+}
+
+td.right_padding_cell {
+    padding: 0 5px 0 5px;
+}

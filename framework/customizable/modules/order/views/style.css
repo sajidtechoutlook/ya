@@ -1,0 +1,22 @@
+.main_tbl_listing{
+	width:100%;
+	border-bottom:thin #333333 solid;
+}
+.tbl_listing_heading{
+	font-size:14px;
+	font-weight:bold;
+	background-color:#333333;
+	color:#FFFFFF;
+}
+
+.tbl_listing{
+	border:0px;
+}
+.row_listing1{
+	background-color:#FFFFFF;
+	color:#101010;
+}
+.row_listing2{
+	background-color:#e9e9e9;
+	color:#000000;
+}

@@ -1,0 +1,15 @@
+.kt-grid.kt-grid--hor.kt-grid--root {
+    max-height: 50px;
+    min-height: 50px;
+}
+
+@media screen and (min-width: 1025px) 
+{
+    div#kt_content {
+        padding: 0 0 0px 250px;
+    }
+    .kt-grid.kt-grid--hor.kt-grid--root {
+        max-height: 10px;
+        min-height: 10px;
+    }
+}
