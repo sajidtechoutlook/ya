@@ -9,3 +9,11 @@ td.data_cell {
 td.right_padding_cell {
     padding: 0 5px 0 5px;
 }
+
+@media print
+{    
+    .no-print, .no-print *
+    {
+        display: none !important;
+    }
+}

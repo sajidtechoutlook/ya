@@ -16,3 +16,11 @@ a.no-print.right.button {
     color: #ffffff;
     cursor: pointer;
 }
+
+@media print
+{    
+    .no-print, .no-print *
+    {
+        display: none !important;
+    }
+}
