@@ -16,4 +16,7 @@ td.right_padding_cell {
     {
         display: none !important;
     }
+    td.data_cell {
+        font-size: 18px;
+    }
 }
