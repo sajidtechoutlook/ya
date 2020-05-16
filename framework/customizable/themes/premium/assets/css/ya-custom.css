@@ -16,7 +16,7 @@ td.right_padding_cell {
     {
         display: none !important;
     }
-    /*table, tr, tbody, td, th {
-        font-size: 38px;
-    }*/
+    table, tr, tbody, td, th {
+        font-size: 22px;
+    }
 }
