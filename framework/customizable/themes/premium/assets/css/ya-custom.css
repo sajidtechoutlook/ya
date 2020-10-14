@@ -19,4 +19,15 @@ td.right_padding_cell {
     table, tr, tbody, td, th {
         font-size: 22px;
     }
+    html, body {
+        height: 100%;
+        margin: 0px;
+        padding: 0px;
+        font-size: 20px;
+        font-weight: 300;
+        font-family: Poppins;
+        -ms-text-size-adjust: 100%;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+    }
 }
