@@ -30,4 +30,7 @@ td.right_padding_cell {
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
     }
+    .kt-aside__brand-logo {
+        display: none;
+    }
 }
