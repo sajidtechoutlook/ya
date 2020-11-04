@@ -33,4 +33,7 @@ td.right_padding_cell {
     .kt-aside__brand-logo {
         display: none;
     }
+div#kt_footer {
+    display: none;
+}
 }
