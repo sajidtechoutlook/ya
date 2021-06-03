@@ -408,3 +408,21 @@ $( document ).ready(function() {
 
     $('.focus').focus();
 });
+
+
+
+/***********************************************************************************/
+
+function addNewItemRow($parent_id, $row, $delete_button, $field, $tags){
+    jQuery($parent_id).append(jQuery($row).html());
+    jQuery($delete_button).click(function(){deleteThisRow(jQuery(this));});
+    dataItemAutoComplete($field, $tags);
+}
+
+function deleteThisRow($this){
+    $this.parent().parent().remove();
+}
+
+
+
+
