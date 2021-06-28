@@ -10,11 +10,28 @@ td.right_padding_cell {
     padding: 0 5px 0 5px;
 }
 
+.print-only, .print-only *
+{
+    display: none !important;
+}
+
+.hidden {
+    display: none !important;
+}
+
 @media print
 {    
+    .input-print {
+        border: 0 !important;
+        background: 0 !important;
+    }
     .no-print, .no-print *
     {
         display: none !important;
+    }
+    .print-only, .print-only *
+    {
+        display: block !important;
     }
     table, tr, tbody, td, th {
         font-size: 22px;

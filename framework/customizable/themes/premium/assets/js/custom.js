@@ -402,9 +402,12 @@ function checksubmit(frm)
 	}
 
 $( document ).ready(function() {
-    $('.datepicker').datepicker({
-        format: 'dd-mm-yyyy'
-    });
+	$('.datepicker').datetimepicker({
+		format: 'dd-mm-yyyy hh:ii'
+	});
+    // $('.datepicker').datepicker({
+    //     format: 'dd-mm-yyyy'
+    // });
 
     $('.focus').focus();
 });
