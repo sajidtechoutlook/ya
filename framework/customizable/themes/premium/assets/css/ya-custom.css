@@ -29,6 +29,10 @@ input.big, .big {
     font-size: 20px !important;
 }
 
+#bills_to_sync {
+    color: red;
+    padding: 0 50px 0 0;
+}
 @media print
 {    
     .print-center{
