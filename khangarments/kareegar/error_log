@@ -1,9 +1,0 @@
-[25-Feb-2017 02:36:08 America/Chicago] PHP Notice:  Undefined index: sale_id in /home/peghameh/public_html/youaccounts.com/software/new/print_invoice.php on line 6
-[25-Feb-2017 02:36:08 America/Chicago] PHP Notice:  Undefined variable: dblink in /home/peghameh/public_html/youaccounts.com/software/new/print_invoice.php on line 7
-[25-Feb-2017 02:36:08 America/Chicago] PHP Fatal error:  Call to a member function getCellFromDB() on a non-object in /home/peghameh/public_html/youaccounts.com/software/new/print_invoice.php on line 7
-[25-Feb-2017 02:36:19 America/Chicago] PHP Notice:  Undefined index: sale_id in /home/peghameh/public_html/youaccounts.com/software/new/print_invoice.php on line 6
-[25-Feb-2017 02:36:19 America/Chicago] PHP Notice:  Undefined variable: dblink in /home/peghameh/public_html/youaccounts.com/software/new/print_invoice.php on line 7
-[25-Feb-2017 02:36:19 America/Chicago] PHP Fatal error:  Call to a member function getCellFromDB() on a non-object in /home/peghameh/public_html/youaccounts.com/software/new/print_invoice.php on line 7
-[25-Feb-2017 02:39:14 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home/peghameh/public_html/youaccounts.com/software/new/check.php on line 2
-[25-Feb-2017 02:39:14 America/Chicago] PHP Notice:  Undefined variable: dblink in /home/peghameh/public_html/youaccounts.com/software/new/change_password.php on line 7
-[25-Feb-2017 02:39:14 America/Chicago] PHP Fatal error:  Call to a member function getTableFromDB() on a non-object in /home/peghameh/public_html/youaccounts.com/software/new/change_password.php on line 7
