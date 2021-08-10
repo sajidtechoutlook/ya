@@ -34,7 +34,10 @@ input.big, .big {
     padding: 0 50px 0 0;
 }
 @media print
-{    
+{
+    body {
+        color: #000000;
+    }
     .print-center{
         align-content: center !important;
     }
