@@ -84,9 +84,9 @@ input.big, .big {
     .kt-header-mobile--fixed .kt-wrapper {
         padding-top: 0px !important;
     }
-    .kt-footer.kt-grid__item.kt-grid.kt-grid--desktop.kt-grid--ver-desktop {
+    /* .kt-footer.kt-grid__item.kt-grid.kt-grid--desktop.kt-grid--ver-desktop {
         display: none !important;
-    }
+    } */
 }
 
 .kt-header-mobile--fixed .kt-wrapper {
