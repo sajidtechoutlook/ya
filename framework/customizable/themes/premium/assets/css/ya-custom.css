@@ -56,7 +56,8 @@ input.big, .big {
     }
     .print-only, .print-only *
     {
-        display: block !important;
+        /* display: block !important; */
+        /* display: inline-block; */
     }
     table, tr, tbody, td, th {
         font-size: 22px;
