@@ -12,7 +12,9 @@ td.right_padding_cell {
 
 .print-only, .print-only *
 {
-    display: none !important;
+    visibility: hidden !important;
+
+    /* display: none !important; */
 }
 
 .hidden {
@@ -56,7 +58,9 @@ input.big, .big {
     }
     .print-only, .print-only *
     {
-        display: block !important;
+        visibility: visible !important;
+
+        /* display: inherit !important; */
     }
     table, tr, tbody, td, th {
         font-size: 22px;
